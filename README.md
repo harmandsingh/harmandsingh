@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Harman!
-- 👀 I’m interested in Distributed Systems, Web-Scale Applications and Cybersecurity
-- 🌱 I’m currently learning Racket, Python, JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Cloud Computing, Distributed Systems, and Cybersecurity.
+- 🌱 I’m currently learning Racket, Python, JavaScript, PHP
 
 <!---
 harmandsingh/harmandsingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
