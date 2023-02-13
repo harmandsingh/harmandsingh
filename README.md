@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harman!
 - 👀 I’m interested in Cloud Computing, Distributed Systems, and Cybersecurity.
-- 🌱 I’m currently learning Racket, Python, JavaScript, PHP
+- 🌱 I’m currently building web applications using React, Typescript, Google Firebase, PostgreSQL, and other cloud technologies.
 
 <!---
 harmandsingh/harmandsingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
