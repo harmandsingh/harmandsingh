@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harman!
 - 👀 I’m interested in Cloud Computing, Distributed Systems, and Cybersecurity.
-- 🌱 I’m currently building web applications using React, Typescript, NextJS, Express, Google Firebase, PostgreSQL, and other cloud technologies.
+- 🌱 I’m currently building web applications using Golang, React, Typescript, NextJS, Express, Google Firebase, PostgreSQL, and other cloud technologies.
 
 <!---
 harmandsingh/harmandsingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
